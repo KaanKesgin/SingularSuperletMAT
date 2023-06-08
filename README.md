@@ -11,7 +11,7 @@ Quickstart
 ============
 
 Either git clone or download this repository, then add \your\download\directory\SingularSuperletMAT\ to your path
-Then, you can either execute run.m for a quick start and a comnparison with CWT using randomly generated data or simply use your own data with:
+Then, you can either execute run.m for a quick start and a comparison with CWT using randomly generated data or simply use your own data with:
 
 ```Matlab
 %load your data
