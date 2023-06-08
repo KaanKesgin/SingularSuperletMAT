@@ -30,8 +30,7 @@ sstRez = sst(y, frange, Fs, baseCycle, norm, step); % perform sst,  returns the 
 % cwtRez = cwt(y, frange, Fs, baseCycle, norm, step); % perform cwt,  uncomment if you wish to make comparisons with cwt, returns the scalogram output that is timePoints x frequencyPoints
 
 ```
-![](https://github.com/KaanKesgin/SingularSuperletMAT/comparisonMatlab.png)
-
+![](https://github.com/KaanKesgin/SingularSuperletMAT/blob/main/comparisonMatlab.png)
 
 - High performance Julia implementation [under development](https://github.com/KaanKesgin/SingularSuperletJL.jl)
 - Python version [under development](https://github.com/KaanKesgin/SingularSuperletPY)
