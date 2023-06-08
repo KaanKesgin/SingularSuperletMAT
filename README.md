@@ -33,4 +33,4 @@ sstRez = sst(y, frange, Fs, baseCycle, norm, step); % perform sst,  returns the 
 ![](https://github.com/KaanKesgin/SingularSuperletMAT/blob/main/comparisonMatlab.png)
 
 - High performance Julia implementation [under development](https://github.com/KaanKesgin/SingularSuperletJL.jl)
-- Python version [under development](https://github.com/KaanKesgin/SingularSuperletPY)
+- Python version [available](https://github.com/KaanKesgin/SingularSuperletPY)
